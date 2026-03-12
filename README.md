@@ -1,7 +1,9 @@
 # THE ANSLOW PROCESS: Vitreous-Carbon FGM for sCO2 Turbines
 **Inventor & Architect:** Paul Anslow  
 **Institution:** The Luminous Treasury  
-**Date of Publication:** March 12, 2026  
+**Date of Publication:** March 12, 2026 
+
+**Official DOI / Prior Art:** https://doi.org/10.5281/zenodo.18978910
 
 ## 🌍 DECLARATION OF OPEN SOURCE LICENSING (CERN-OHL-S)
 I, Paul Anslow, hereby release the entirety of the "Anslow Process" and the "Vitreous-Carbon Functionally Graded Material (FGM)" architecture into the public domain under the **CERN Open Hardware Licence Version 2 - Strongly Reciprocal (CERN-OHL-S)**. 
